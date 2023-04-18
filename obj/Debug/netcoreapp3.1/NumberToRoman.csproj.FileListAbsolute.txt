@@ -1,0 +1,5 @@
+D:\Marco\Cursos\C#\NumberToRoman\NumberToRoman\obj\Debug\netcoreapp3.1\NumberToRoman.csproj.AssemblyReference.cache
+D:\Marco\Cursos\C#\NumberToRoman\NumberToRoman\obj\Debug\netcoreapp3.1\NumberToRoman.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marco\Cursos\C#\NumberToRoman\NumberToRoman\obj\Debug\netcoreapp3.1\NumberToRoman.AssemblyInfoInputs.cache
+D:\Marco\Cursos\C#\NumberToRoman\NumberToRoman\obj\Debug\netcoreapp3.1\NumberToRoman.AssemblyInfo.cs
+D:\Marco\Cursos\C#\NumberToRoman\NumberToRoman\obj\Debug\netcoreapp3.1\NumberToRoman.csproj.CoreCompileInputs.cache
